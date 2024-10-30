@@ -29,6 +29,6 @@ Este repositório contém uma coleção de questões de lógica e manipulação 
 ```
 ## Como Contribuir
 
-1 - Clone o repositório para o seu ambiente local.
-2 - Resolva as questões conforme o enunciado e salve sua solução na pasta específica de cada questão.
-3 - Se desejar compartilhar suas resoluções, abra um pull request para análise.
+- Clone o repositório para o seu ambiente local.
+- Resolva as questões conforme o enunciado e salve sua solução na pasta específica de cada questão.
+- Se desejar compartilhar suas resoluções, abra um pull request para análise.
